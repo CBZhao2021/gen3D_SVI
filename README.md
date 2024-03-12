@@ -31,7 +31,7 @@ python gen3D_SVI.py
 ![PCL](./sample_img/sample3.png)
 ![SS](./sample_img/sample4.png)
 
-### Real 3D city model
+### Real 3D city model (final results)
 ![SVI3D](./sample_img/sample1.png)
 
 
