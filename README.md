@@ -2,7 +2,7 @@
 
 Generate .obj and CityGML (.gml) files for real city 3D scenes, used street view images (SVI) as reference information.
 
-# usage
+# Usage
 
 Environment: Windows OS, CPU, Python
 Lib:
